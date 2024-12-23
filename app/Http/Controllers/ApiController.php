@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class ApiController extends Controller
 {
-    //
+    //test
     public function analyzeData(Request $request) {
 
         $data= $request->all();
